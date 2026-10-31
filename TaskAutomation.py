@@ -1,7 +1,7 @@
 import os
 import shutil
 
-source_folder = "Photos"
+source_folder = "."
 target_folder = "sorted_photos"
 
 # create the new folder if it does not exist
